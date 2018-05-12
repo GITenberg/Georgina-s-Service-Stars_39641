@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39641#Georgina-s-Service-Stars
 gutenberg_issued: '2012-05-07'
 gutenberg_type: Text
 identifiers:
