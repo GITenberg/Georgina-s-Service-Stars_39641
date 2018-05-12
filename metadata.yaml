@@ -1,0 +1,41 @@
+_repo: Georgina-s-Service-Stars_39641
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gooch, Thelma
+    gutenberg_agent_id: '32061'
+    url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: archival
+  image_path: 39641-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Johnston, Annie Fellows
+    - Fellows, Annie
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2012-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Participation -- Juvenile fiction'
+- !lcsh 'New England -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Diaries -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'War stories'
+title: Georgina's Service Stars
+url: http://www.gutenberg.org/ebooks/39641
